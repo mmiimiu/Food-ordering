@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "projectodering",
   "version": "1.0.0",
   "main": "src/server.js",
@@ -20,3 +21,24 @@
     "nodemon": "^3.0.1"
   }
 }
+=======
+  "name": "frontend-react",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  }
+}
+>>>>>>> b70555f5ad6eca7903a1d79581885bc025f3a135
